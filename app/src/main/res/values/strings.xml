@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuitMediaTest</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">check</string>
+    <string name="next">Next</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="name_of_user">name of user</string>
+    <string name="selected_username">Selected UserName</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="firstname_lastname">FirstName LastName</string>
+    <string name="dummy_email">email@email.com</string>
+</resources>
